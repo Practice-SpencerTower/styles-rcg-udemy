@@ -20,7 +20,7 @@ const CourseInput = props => {
       setIsValid(false);
       return;
     }
-    props.onAddGoal(enteredValue);i
+    props.onAddGoal(enteredValue);
   };
 
   return (
